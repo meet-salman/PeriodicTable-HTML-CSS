@@ -1,0 +1,100 @@
+body{
+    padding-top: 10px;
+    background-color: white;
+    font-family: arial,sans-serif;
+    background-color: #141414;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+div{
+    width: 66%;
+    margin: 50px auto;
+    /* background-color: #d8f8ff; */
+}
+
+/* table{
+    border-spacing: 2px;   
+
+} */
+
+/* tr{
+    
+} */
+
+
+td{
+    background-color: chocolate;
+    padding: 12px;
+    text-align: center;
+    border-radius: 4px;
+    /* border: 1px  solid  red; */
+}
+
+.gap{
+    background-color: transparent;
+}
+
+.groupname{
+    color: white;
+    text-align: end;
+}
+
+.purple{
+    background-color: #f3e8fd;
+    color: #6232ec;
+}
+
+.blue{
+    background-color: #e2eeff;
+    color: #6d67f0;
+}
+
+.darkblue{
+    background-color: #e2eeff;
+    color: #0060f0;
+}
+
+.lightblue{
+    background-color: #dff3ff;
+    color: #003355;
+}
+
+.green{
+    background-color: #d6f9e8;
+    color: #002c00;
+}
+
+.orange{
+    background-color: #ffe6d4;
+    color: #c73200;
+}
+
+.gray{
+    background-color: #e7e7ea;
+    color: #3f374f;
+}
+
+.pink{
+    background-color: #ffe7eb;
+    color: #cd1d5e;
+}
+
+.rose{
+    background-color: #ffe7e7;
+    color: #d60024;
+}
+
+.lightyellow{
+    background-color: #fef7e0;
+    color: #945700;
+}
+
+
+.seegreen{
+    background-color: #d8f8ff;
+    color: #00758c;
+}
